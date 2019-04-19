@@ -1,7 +1,10 @@
 package condicionais;
 
 import java.util.Scanner;
-
+/**
+ *
+ * @author Walney Negreiros
+ */
 public class AppProgram {
 	public static void main(String[] argumentos) {
 		Scanner teclado = new Scanner(System.in);
